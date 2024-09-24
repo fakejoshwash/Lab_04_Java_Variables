@@ -16,7 +16,7 @@ public class Main {
         double doubleQuotient = 256.78;
         double doubleModulo = 512.24;
         int childrenInFamily = 3;
-        boolean isItRaining = false; // will it ever?
+        boolean isItRaining = true; // finally!
         double gallonGasPrice = 3.11;
         int favoriteNumber = 95;
         double shoeSize = 10.5;
